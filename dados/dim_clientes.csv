@@ -1,0 +1,101 @@
+id_cliente,nome_cliente,genero,data_nascimento,cidade,estado,data_cadastro
+1,Cliente 1,M,1991-07-10,Belo Horizonte,CE,2022-11-10
+2,Cliente 2,M,2006-04-27,Belo Horizonte,MG,2024-01-22
+3,Cliente 3,F,2011-12-14,Fortaleza,RJ,2020-12-09
+4,Cliente 4,F,2008-03-11,Rio de Janeiro,PR,2020-10-03
+5,Cliente 5,M,2001-08-21,Rio de Janeiro,CE,2022-01-17
+6,Cliente 6,M,2012-11-22,Belo Horizonte,RJ,2024-02-08
+7,Cliente 7,F,2014-04-07,Belo Horizonte,PR,2023-06-21
+8,Cliente 8,F,1993-05-08,Belo Horizonte,CE,2021-10-08
+9,Cliente 9,M,2003-12-07,Curitiba,SP,2020-11-11
+10,Cliente 10,F,2012-04-03,Rio de Janeiro,SP,2023-10-01
+11,Cliente 11,M,2008-06-11,Curitiba,PR,2023-10-22
+12,Cliente 12,F,2015-08-23,Curitiba,CE,2022-02-14
+13,Cliente 13,M,2011-09-09,São Paulo,PR,2023-11-12
+14,Cliente 14,F,1991-12-18,Rio de Janeiro,PR,2021-12-03
+15,Cliente 15,F,2007-12-26,Curitiba,RJ,2020-07-20
+16,Cliente 16,F,1991-11-22,Curitiba,SP,2020-10-22
+17,Cliente 17,M,2007-12-16,Fortaleza,RJ,2022-05-28
+18,Cliente 18,M,2002-07-19,Rio de Janeiro,SP,2022-02-02
+19,Cliente 19,F,2012-08-19,Fortaleza,SP,2023-03-26
+20,Cliente 20,M,1989-05-05,São Paulo,SP,2023-09-29
+21,Cliente 21,M,1994-09-19,Belo Horizonte,MG,2021-08-15
+22,Cliente 22,F,2005-04-19,Rio de Janeiro,RJ,2020-02-10
+23,Cliente 23,F,2006-05-10,São Paulo,PR,2022-07-18
+24,Cliente 24,M,2008-12-02,Fortaleza,MG,2021-11-14
+25,Cliente 25,F,2019-03-10,Belo Horizonte,MG,2022-08-18
+26,Cliente 26,M,2011-05-16,Belo Horizonte,SP,2022-10-25
+27,Cliente 27,F,1990-07-17,Belo Horizonte,SP,2020-07-25
+28,Cliente 28,M,2005-07-13,Rio de Janeiro,PR,2024-01-24
+29,Cliente 29,M,1991-07-13,São Paulo,PR,2022-10-17
+30,Cliente 30,F,2005-08-24,Fortaleza,CE,2023-04-09
+31,Cliente 31,M,1992-01-25,Fortaleza,MG,2023-06-20
+32,Cliente 32,F,2005-05-12,Rio de Janeiro,RJ,2021-07-10
+33,Cliente 33,F,1996-07-16,Curitiba,PR,2023-09-25
+34,Cliente 34,F,2017-01-07,Belo Horizonte,RJ,2023-10-03
+35,Cliente 35,M,2017-09-20,São Paulo,SP,2023-11-01
+36,Cliente 36,M,2007-09-20,Curitiba,CE,2023-07-06
+37,Cliente 37,M,2013-07-15,Belo Horizonte,SP,2020-11-13
+38,Cliente 38,M,1990-12-25,Belo Horizonte,SP,2023-02-10
+39,Cliente 39,F,2007-03-13,Curitiba,PR,2023-11-10
+40,Cliente 40,M,2009-02-05,Fortaleza,SP,2022-08-09
+41,Cliente 41,M,1991-01-29,São Paulo,RJ,2021-10-03
+42,Cliente 42,F,1991-07-04,Fortaleza,SP,2021-01-19
+43,Cliente 43,M,2003-07-16,Fortaleza,PR,2021-12-30
+44,Cliente 44,F,2016-05-04,Curitiba,MG,2023-04-22
+45,Cliente 45,M,2013-09-10,Fortaleza,PR,2020-07-16
+46,Cliente 46,F,1994-06-14,São Paulo,SP,2023-02-21
+47,Cliente 47,M,1996-01-16,Fortaleza,MG,2021-10-21
+48,Cliente 48,F,2008-08-07,Curitiba,MG,2023-10-01
+49,Cliente 49,M,2011-12-30,Curitiba,PR,2021-05-03
+50,Cliente 50,M,1994-07-13,Rio de Janeiro,SP,2021-04-17
+51,Cliente 51,F,2004-04-26,Rio de Janeiro,MG,2020-09-19
+52,Cliente 52,F,2006-05-19,Rio de Janeiro,SP,2022-05-30
+53,Cliente 53,F,2004-01-06,Curitiba,CE,2022-11-26
+54,Cliente 54,F,2008-10-06,São Paulo,SP,2023-01-27
+55,Cliente 55,M,1995-05-05,Belo Horizonte,PR,2020-05-31
+56,Cliente 56,F,2016-03-28,Curitiba,MG,2023-12-14
+57,Cliente 57,F,2000-08-30,Curitiba,MG,2023-02-09
+58,Cliente 58,F,2004-06-23,Belo Horizonte,SP,2022-07-02
+59,Cliente 59,F,2002-10-13,Rio de Janeiro,RJ,2022-04-01
+60,Cliente 60,M,1991-10-14,São Paulo,PR,2020-06-09
+61,Cliente 61,F,2008-03-06,Fortaleza,PR,2023-11-16
+62,Cliente 62,M,1992-07-02,São Paulo,SP,2021-11-18
+63,Cliente 63,F,2014-03-17,Belo Horizonte,CE,2021-07-16
+64,Cliente 64,F,2005-04-22,Belo Horizonte,MG,2020-08-13
+65,Cliente 65,M,2002-07-25,São Paulo,PR,2022-05-28
+66,Cliente 66,F,2004-07-01,Fortaleza,PR,2022-03-26
+67,Cliente 67,M,2010-03-15,Belo Horizonte,SP,2020-01-17
+68,Cliente 68,F,2014-12-31,Fortaleza,CE,2021-06-01
+69,Cliente 69,M,1992-01-26,Fortaleza,SP,2020-10-28
+70,Cliente 70,M,1990-10-29,Belo Horizonte,PR,2022-09-19
+71,Cliente 71,F,1989-09-08,Fortaleza,CE,2022-07-16
+72,Cliente 72,M,1992-05-29,Belo Horizonte,RJ,2021-07-19
+73,Cliente 73,F,2004-01-25,Rio de Janeiro,RJ,2020-06-03
+74,Cliente 74,F,1993-01-09,Rio de Janeiro,SP,2023-02-01
+75,Cliente 75,M,2009-11-12,Belo Horizonte,CE,2022-01-28
+76,Cliente 76,F,2005-07-22,Rio de Janeiro,SP,2021-02-11
+77,Cliente 77,M,2008-04-02,Rio de Janeiro,SP,2020-02-05
+78,Cliente 78,M,1995-08-26,Curitiba,MG,2021-04-15
+79,Cliente 79,M,2005-05-16,Belo Horizonte,SP,2021-07-28
+80,Cliente 80,F,1992-04-23,Rio de Janeiro,RJ,2023-09-27
+81,Cliente 81,M,2016-04-16,Rio de Janeiro,MG,2021-03-19
+82,Cliente 82,M,1997-09-20,Curitiba,PR,2020-01-05
+83,Cliente 83,M,2003-09-20,Fortaleza,PR,2023-10-05
+84,Cliente 84,M,2008-03-28,Curitiba,CE,2021-01-04
+85,Cliente 85,F,1993-10-20,Belo Horizonte,SP,2020-04-29
+86,Cliente 86,M,2003-05-05,Rio de Janeiro,CE,2024-02-06
+87,Cliente 87,M,2005-06-15,São Paulo,PR,2022-10-09
+88,Cliente 88,M,1992-02-16,Rio de Janeiro,SP,2022-03-12
+89,Cliente 89,F,2010-07-15,São Paulo,CE,2022-06-15
+90,Cliente 90,F,2000-04-23,Fortaleza,CE,2020-09-03
+91,Cliente 91,M,1997-10-13,Rio de Janeiro,MG,2022-09-23
+92,Cliente 92,F,1996-09-05,Fortaleza,PR,2022-12-28
+93,Cliente 93,M,1995-01-11,Curitiba,CE,2023-05-12
+94,Cliente 94,F,2017-10-18,Rio de Janeiro,CE,2021-07-04
+95,Cliente 95,F,2009-06-26,Fortaleza,RJ,2021-06-05
+96,Cliente 96,F,1996-12-19,Curitiba,RJ,2022-01-31
+97,Cliente 97,M,1995-12-25,São Paulo,CE,2021-05-30
+98,Cliente 98,F,1996-12-09,Rio de Janeiro,SP,2022-06-14
+99,Cliente 99,F,1991-07-01,Curitiba,RJ,2021-01-14
+100,Cliente 100,M,2000-02-13,Fortaleza,MG,2023-12-21
